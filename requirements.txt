@@ -1,0 +1,14 @@
+youtube-transcript-api 
+langchain-community 
+langchain-google-genai
+pinecone 
+faiss-cpu 
+requests==2.32.4 
+langchain_experimental
+langchain-pinecone 
+google-ai-generativelanguage==0.6.15 
+langchain 
+langchain_nvidia_ai_endpoints
+sentence-transformers
+transformers
+torch
