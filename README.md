@@ -68,7 +68,7 @@ By simply entering a YouTube video link, users can chat with the content — ask
 ## 🧩 Example Use Case
 
 	⁠User Input:
-	⁠“Summarize the main points of this video: [YouTube link]”
+	⁠“Summarize the main points of this video”
 
 	⁠Bot Output:
 	⁠“The video discusses the basics of reinforcement learning — including the concept of agents, environments, rewards, and policy optimization…”
